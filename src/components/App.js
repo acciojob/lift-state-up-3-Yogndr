@@ -16,7 +16,7 @@ const App = () => {
       <div style={{backgroundColor:"yellow", width:900}}>
       <Child number={2} setoption={setselectedOption} />
       </div>
-      <p>Selected Option:{selectedOption} </p>
+      <p>Selected Option: {selectedOption} </p>
       </div>
     </div>
   )
